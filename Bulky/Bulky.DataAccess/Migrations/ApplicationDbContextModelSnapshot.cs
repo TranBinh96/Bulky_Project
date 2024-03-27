@@ -46,19 +46,19 @@ namespace Bulky.DataAccess.Migrations
                         {
                             CategoryId = 1,
                             DisplayOrder = 1,
-                            Name = "Action"
+                            Name = "Máy Lạnh"
                         },
                         new
                         {
                             CategoryId = 2,
                             DisplayOrder = 2,
-                            Name = "SciFi"
+                            Name = "Điện Thoại"
                         },
                         new
                         {
                             CategoryId = 3,
                             DisplayOrder = 3,
-                            Name = "Hostory"
+                            Name = "Gia Dụng"
                         });
                 });
 #pragma warning restore 612, 618

@@ -10,9 +10,9 @@ C:\Users\BINHTT\Desktop\Manager_Project\Bulky_Project\Bulky\Bulky.DataAccess\obj
 C:\Users\BINHTT\Desktop\Manager_Project\Bulky_Project\Bulky\Bulky.DataAccess\obj\Debug\net8.0\Bulky.DataAccess.AssemblyInfo.cs
 C:\Users\BINHTT\Desktop\Manager_Project\Bulky_Project\Bulky\Bulky.DataAccess\obj\Debug\net8.0\Bulky.DataAccess.csproj.CoreCompileInputs.cache
 C:\Users\BINHTT\Desktop\Manager_Project\Bulky_Project\Bulky\Bulky.DataAccess\obj\Debug\net8.0\Bulky.DataAccess.sourcelink.json
-C:\Users\BINHTT\Desktop\Manager_Project\Bulky_Project\Bulky\Bulky.DataAccess\obj\Debug\net8.0\Bulky.DataAccess.csproj.CopyComplete
 C:\Users\BINHTT\Desktop\Manager_Project\Bulky_Project\Bulky\Bulky.DataAccess\obj\Debug\net8.0\Bulky.DataAccess.dll
 C:\Users\BINHTT\Desktop\Manager_Project\Bulky_Project\Bulky\Bulky.DataAccess\obj\Debug\net8.0\refint\Bulky.DataAccess.dll
 C:\Users\BINHTT\Desktop\Manager_Project\Bulky_Project\Bulky\Bulky.DataAccess\obj\Debug\net8.0\Bulky.DataAccess.pdb
 C:\Users\BINHTT\Desktop\Manager_Project\Bulky_Project\Bulky\Bulky.DataAccess\obj\Debug\net8.0\Bulky.DataAccess.genruntimeconfig.cache
 C:\Users\BINHTT\Desktop\Manager_Project\Bulky_Project\Bulky\Bulky.DataAccess\obj\Debug\net8.0\ref\Bulky.DataAccess.dll
+C:\Users\BINHTT\Desktop\Manager_Project\Bulky_Project\Bulky\Bulky.DataAccess\obj\Debug\net8.0\Bulky.Da.6DBD1FC4.Up2Date

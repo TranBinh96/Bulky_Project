@@ -65,7 +65,6 @@ C:\Users\BINHTT\Desktop\Manager_Project\Bulky_Project\Bulky\BulkyWeb\bin\Debug\n
 C:\Users\BINHTT\Desktop\Manager_Project\Bulky_Project\Bulky\BulkyWeb\bin\Debug\net8.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
 C:\Users\BINHTT\Desktop\Manager_Project\Bulky_Project\Bulky\BulkyWeb\bin\Debug\net8.0\runtimes\win\lib\net6.0\System.Runtime.Caching.dll
 C:\Users\BINHTT\Desktop\Manager_Project\Bulky_Project\Bulky\BulkyWeb\obj\Debug\net8.0\BulkyWeb.csproj.AssemblyReference.cache
-C:\Users\BINHTT\Desktop\Manager_Project\Bulky_Project\Bulky\BulkyWeb\obj\Debug\net8.0\BulkyWeb.csproj.CopyComplete
 C:\Users\BINHTT\Desktop\Manager_Project\Bulky_Project\Bulky\BulkyWeb\obj\Debug\net8.0\BulkyWeb.sourcelink.json
 C:\Users\BINHTT\Desktop\Manager_Project\Bulky_Project\Bulky\BulkyWeb\bin\Debug\net8.0\Microsoft.AspNetCore.Razor.Language.dll
 C:\Users\BINHTT\Desktop\Manager_Project\Bulky_Project\Bulky\BulkyWeb\bin\Debug\net8.0\Microsoft.Build.dll
@@ -275,3 +274,4 @@ C:\Users\BINHTT\Desktop\Manager_Project\Bulky_Project\Bulky\BulkyWeb\bin\Debug\n
 C:\Users\BINHTT\Desktop\Manager_Project\Bulky_Project\Bulky\BulkyWeb\bin\Debug\net8.0\Bulky.Models.dll
 C:\Users\BINHTT\Desktop\Manager_Project\Bulky_Project\Bulky\BulkyWeb\bin\Debug\net8.0\Bulky.DataAccess.pdb
 C:\Users\BINHTT\Desktop\Manager_Project\Bulky_Project\Bulky\BulkyWeb\bin\Debug\net8.0\Bulky.Models.pdb
+C:\Users\BINHTT\Desktop\Manager_Project\Bulky_Project\Bulky\BulkyWeb\obj\Debug\net8.0\BulkyWeb.csproj.Up2Date
